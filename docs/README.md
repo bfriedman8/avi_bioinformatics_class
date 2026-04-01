@@ -1,3 +1,8 @@
+Hello, this is Brooke Friedman and this is my final project. My two datasets are the Genotype-Tissue Expression (GTEx) project and the Undiagnosed Diseases Network (UDN). I used ChatGPT to help refine my specific aims page and I also used to to help me write a thorough prompt for the Base44 game.
+
+[View my specific aims](Friedman_programming_final.pdf)
+
+
 **Welcome to your Base44 project** 
 
 **About**
